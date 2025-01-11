@@ -18,4 +18,4 @@ Hello, I'm Tousif, a passionate explorer at the intersection of computing and cr
 Feel free to reach out, collaborate, or just chat about anything from the latest tech innovations to the best coffee brews for coding marathons!
 
 ---
-> "Innovation is where imagination meets ambition." - Carve your path, one pixel and one line of code at a time!
+> "Innovation is where imagination meets ambition." - Carve your path, one pixel and one line of code at a time!<
