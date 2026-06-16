@@ -27,9 +27,5 @@ Hello, I'm Tousif, a passionate explorer at the intersection of computing and cr
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tousif2021&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
 ---
 > "Innovation is where imagination meets ambition." - Carve your path, one pixel and one line of code at a time!
